@@ -1,36 +1,36 @@
 {
     "header": {
-        "link1": "Женщины",
-        "link2": "Мужчины",
-        "link3": "О нас",
-        "link4": "Поиск"
+        "link1": "Women",
+        "link2": "Men",
+        "link3": "About us",
+        "link4": "Search"
     },
     "begin": {
-        "title": "Бренд",
-        "subtitle": "Смотреть коллекцию"
+        "title": "Brand",
+        "subtitle": "Watch collection"
     },
     "collection":{
-        "title":" новое прибытие",
+        "title":"New Arrival",
         "subtitle":" Лорем ипсум Лорем ипсум Лорем ипсум лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум",
-        "subsubtitle":" Смотреть коллекцию"
+        "subsubtitle":"Watch collection "
     },
     "popular":{
         "card1":{
-            "logo":"Популярное",
+            "logo":"Popular",
             "titleCards":"REPlay",
             "description":"Classic shoes",
             "italprice":"6100 UAH",
             "price":"3800 UAH"
         },
         "card2":{
-            "logo":"Популярное",
+            "logo":"Popular",
             "titleCards":"REPlay",
             "description":"Classic shoes",
             "italprice":"6100 UAH",
             "price":"3800 UAH"
         },
         "card3":{
-            "logo":"Популярное",
+            "logo":"Popular",
             "titleCards":"REPlay",
             "description":"Classic shoes",
             "italprice":"6100 UAH",
@@ -38,7 +38,7 @@
         }
     },
     "aboutus":{
-        "title":"О нас",
+        "title":"About us",
         "text":"  Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLoreLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem   ipLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem i ipsumLorem ipsumLorem ipsumipLorem ipsumLoremLorem ipsumLore ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLorem ipsumLorem ipsumLorem "
     } 
 }
