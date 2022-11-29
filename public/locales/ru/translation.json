@@ -1,0 +1,44 @@
+{
+    "header": {
+        "link1": "Женщины",
+        "link2": "Мужчины",
+        "link3": "О нас",
+        "link4": "Поиск"
+    },
+    "begin": {
+        "title": "Бренд",
+        "subtitle": "Смотреть коллекцию"
+    },
+    "collection":{
+        "title":" новое прибытие",
+        "subtitle":" Лорем ипсум Лорем ипсум Лорем ипсум лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум Лорем ипсум",
+        "subsubtitle":" Смотреть коллекцию"
+    },
+    "popular":{
+        "card1":{
+            "logo":"Популярное",
+            "titleCards":"REPlay",
+            "description":"Classic shoes",
+            "italprice":"6100 UAH",
+            "price":"3800 UAH"
+        },
+        "card2":{
+            "logo":"Популярное",
+            "titleCards":"REPlay",
+            "description":"Classic shoes",
+            "italprice":"6100 UAH",
+            "price":"3800 UAH"
+        },
+        "card3":{
+            "logo":"Популярное",
+            "titleCards":"REPlay",
+            "description":"Classic shoes",
+            "italprice":"6100 UAH",
+            "price":"3800 UAH"
+        }
+    },
+    "aboutus":{
+        "title":"О нас",
+        "text":"  Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLoreLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem   ipLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem i ipsumLorem ipsumLorem ipsumipLorem ipsumLoremLorem ipsumLore ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLorem ipsumLorem ipsumLorem "
+    } 
+}

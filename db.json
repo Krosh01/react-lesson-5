@@ -1,0 +1,21 @@
+{
+    "catalog": [
+        {
+            "id": 1,
+            "title": "george gina lucy",
+            "price": 150,
+            "category": "shoes",
+            "image": ["/public/catalog/shoes/1_1.jpg","/public/catalog/shoes/1_2.jpg","/public/catalog/shoes/1_3.jpg"],
+            "sizes": [
+                {"id": 1, "size": 35, "inStock": 5},
+                {"id": 2, "size": 36, "inStock": 2},
+                {"id": 3, "size": 37, "inStock": 3},
+                {"id": 4, "size": 38, "inStock": 1},
+                {"id": 5, "size": 39, "inStock": 7}
+            ],
+            "review": [],
+            "brand": "nike",
+            "gender": "men"
+        }
+    ]
+}
